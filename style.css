@@ -3,9 +3,9 @@
 :root {
   --success-color: green;
   --error-color: red;
-  --sitebackground-color: #9a1f40;
-  --containerbackground-color: #d9455f;
-  --title-color: #74d4c0;
+  --sitebackground-color: #606060ff;
+  --containerbackground-color: #d6ed17ff;
+  --title-color: #606060ff;
 }
 
 * {
@@ -46,7 +46,8 @@ h2 {
 }
 
 .form-control label {
-  color: #74d4c0;
+  font-weight: bold;
+  color: #606060ff;
   display: block;
   margin-bottom: 5px;
 }
